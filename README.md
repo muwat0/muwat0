@@ -7,13 +7,13 @@ Che@t and Random Script Developer
 I code scripts for random stuff. (And maybe sometimes game ch3@ts)
 
 * 🌍  I'm based in Istanbul
-* 🚀  I'm currently working on [Ultimate ModMenu](http://github.com/theMuwat/ultimateModMenu)
+* 🚀  I'm currently working on [Ultimate ModMenu](http://github.com/muwat0/ultimateModMenu)
 * 🧠  I'm learning C, C++, C#
 * 🤝  I'm open to collaborating on FPS and MMO scripters
 * ⚡  Don't believe those who say they are Batman. The real Batman is actually me.
 
-<a href="https://www.github.com/theMuwat" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/theMuwat?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/muwat0" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/muwat0?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -25,12 +25,12 @@ src="https://img.shields.io/github/followers/theMuwat?logo=github&style=for-the-
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/muwat." target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/theMuwat" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://discord.com/users/muwat." target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/muwat0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/theMuwat"><img src="https://github-readme-stats.vercel.app/api?username=theMuwat&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="theMuwat's GitHub stats" /></a>
+<a href="http://www.github.com/muwat0"><img src="https://github-readme-stats.vercel.app/api?username=muwat0&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="muwat0's GitHub stats" /></a>
 
-<a href="https://github.com/theMuwat" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theMuwat&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/muwat0" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theMuwat&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
