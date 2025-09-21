@@ -4,13 +4,10 @@ Hi 👋 My name is Murat
 Che@t and Random Script Developer
 ---------------------------------
 
-I code scripts for random stuff. (And maybe sometimes game ch3@ts)
+I code scripts for random stuff.
 
 *   🌍  I'm based in Istanbul
-*   🚀  I'm currently working on [Ultimate ModMenu](http://github.com/muwat0/ultimateModMenu)
 *   🧠  I'm learning C and Rust
-*   🤝  I'm open to collaborating on FPS and MMO scripters
-*   ⚡  Don't believe those who say they are Batman. The real Batman is actually me.
 <a href="https://www.github.com/muwat0" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/muwat0?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
