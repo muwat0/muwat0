@@ -1,7 +1,7 @@
 Hi 👋 My name is Murat
 ======================
 
-Che@t and Random Script Developer
+BackEnd Developer
 ---------------------------------
 
 I code scripts for random stuff.
