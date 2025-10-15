@@ -1,13 +1,13 @@
 Hi 👋 My name is Murat
 ======================
 
-BackEnd Developer
+BackEnd Developer (And Software Development Student)
 ---------------------------------
 
 I code scripts for random stuff.
 
 *   🌍  I'm based in Istanbul
-*   🧠  I'm learning C and Rust
+*   🧠  I'm learning C++
 <a href="https://www.github.com/muwat0" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/muwat0?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
