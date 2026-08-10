@@ -4,4 +4,4 @@ I've been writing backend and systems code for a long time. Currently a student,
 
 ## Stack
 
-C · C++ · C# ·Lua · React · Tailwind CSS · Docker · Linux
+C · C++ · C# · Lua · React · Tailwind CSS · Docker · Linux
